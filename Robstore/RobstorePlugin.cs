@@ -76,7 +76,7 @@ namespace Nexus.Robstore
 
             _activeRobberies.Clear();
             UnturnedPlayerEvents.OnPlayerUpdateExperience -= OnPlayerUpdateExperience;
-            Logger.Log("❌ RobStore plugin unloaded.");
+            Logger.Log(" RobStore plugin unloaded.");
         }
 
         private void LoadStoresFromConfig()
