@@ -67,9 +67,6 @@ namespace Nexus.Robstore
 
             LoadStoresFromConfig();
             Logger.Log($"--------ROBBERY STORE LOADED, MADE BY NEXUS-----------");
-            Logger.Log($"--------IF ANY OTHER SERVER BESIDES CREST AND ETHEREALL--------");
-            Logger.Log($"--------WE RESULT IN A COPYRIGHT ALGATIONS-----------");
-            Logger.Log($"RobStore plugin loaded with {Stores.Count} store(s).");
         }
 
         protected override void Unload()
