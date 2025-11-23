@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+
+# Logs / misc
+*.log
+Thumbs.db
+Desktop.ini
+
+# NuGet
+*.nupkg
+packages/
+
+# Other
+*.cache
+*.tmp
+
