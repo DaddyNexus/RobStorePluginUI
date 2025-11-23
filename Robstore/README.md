@@ -1,17 +1,10 @@
-﻿# README
-Delete this file after you have read it.
+﻿# Robstore plugin
 
-## Table of contents
-- [Building the Project](#building-the-project)
-- [Testing the Plugin](#testing-the-plugin)
 
-## Building the Project
-1. Use `Ctrl + Shift + B` to build the project or `Build` -> `Build Solution`.
-2. Copy `Robstore.dll` from `bin/Debug/net48` to the `Rocket/Plugins` folder in your server directory.
+ You create a store and you need your weapon out to start the robbery
 
-## Testing the Plugin
-To test the plugin, start the server and check the console for the plugin loading message.
-```
-[loading] Robstore
-[05/16/2024 06:30:26] [Info] Robstore >> Robstore 1.0.0 has been loaded!
-```
+ there is random monney thats configable
+
+ UI got precent bar and cash text
+
+ It also nofis the police where the robbery is being held
