@@ -14,8 +14,8 @@ namespace Nexus.Robstore
         public string IconImageUrl;
         public string RobberyAlertPermissionGroup;
         public List<StoreData> StoreList;
-        public ushort RobberyUIEffectID { get; set; } = 22006; // Change to your effect asset ID
-        public byte RobberyUIEffectKey { get; set; } = 60;       // UI channel key
+        public ushort RobberyUIEffectID { get; set; } = 22006; 
+        public byte RobberyUIEffectKey { get; set; } = 60;      
 
         public void LoadDefaults()
         {
