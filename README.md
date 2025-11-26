@@ -1,13 +1,13 @@
 # Robstore Plugin
-
+this plugin was made by <b>Nexus</b>
 # About
 Robstore plugin UI pops up when someone starts the robbery
-stores can be created via command or config
-must have gun out to start
-min and max money that is randomised that is also configable
+ stores can be created via command or config
+ must have gun out to start
+ min and max money that is randomised that is also configable
 
 # configuration
-```
+``` xml
 <?xml version="1.0" encoding="utf-8"?>
 <RobstoreConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <MinExp>300</MinExp>
